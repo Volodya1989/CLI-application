@@ -41,7 +41,7 @@ so that they can organize and plan their personal/business life in a better way.
 The following screenshot demonstrates the application functionality:
 
 ![Contacts Book / List of Contacts](./images/1-ListContacts.png)
-![Add New Contact](./images/2-addNewContact.png)!
+![Add New Contact](./images/2-addNewContact.png)
 
 ![Delete Contact](./images/3-deleteContact.png)
 
