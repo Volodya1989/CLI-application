@@ -29,7 +29,6 @@ The following video demonstrates the application functionality:
 The following screenshot demonstrates the application functionality:
 
 ![Contacts Book / List of Contacts](https://monosnap.com/file/eNEU7wiuqXZZF5hz6QAd3zF8SJ7xZW)
-![Employee Tracker demo](./Assets/1.png)
 
 ## Credits
 
