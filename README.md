@@ -33,7 +33,7 @@ node index.js --action remove --id qdggE76Jtbfd9eWJHrssH
 
 ## Usage
 
-This Employee Tracker Application was created as command line application for those people who
+This CLI Contacts Book Application was created as command line application for those people who
 want to be able to view and manage their personal or business contact information,
 so that they can organize and plan their personal/business life in a better way.
 
