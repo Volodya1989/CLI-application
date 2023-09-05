@@ -28,8 +28,12 @@ The following video demonstrates the application functionality:
 
 The following screenshot demonstrates the application functionality:
 
-![Contacts Book / List of Contacts](https://monosnap.com/file/eNEU7wiuqXZZF5hz6QAd3zF8SJ7xZW)
-![Employee Tracker demo](./Assets/1.png)
+![Contacts Book / List of Contacts](./images/1-ListContacts.png)
+![Add New Contact](./images/2-addNewContact.png)!
+
+[Delete Contact](./images/3-deleteContact.png)
+
+![Get By ID Contact](./images/4-getByIdContact.png)
 
 ## Credits
 
