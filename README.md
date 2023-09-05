@@ -7,6 +7,7 @@
 ## Table of Contents
 
 - [Installation](#installation)
+-[Available_commands](#commands)
 - [Usage](#usage)
 - [Credits](#credits)
 - [URL](#url)
@@ -17,6 +18,18 @@
 1. Clone the repo.
 2. Run npm install command in your terminal/bash.
 3. Then run npm start OR npm run start:dev command in your terminal/bash.
+## Commands
+1. Get and display the entire list of contacts in the form of a table (console.table):
+node index.js --action list
+
+2. Get contact by id:
+node index.js --action get --id 05olLMgyVQdWRwgKfg5J6
+
+3. Add the contact:
+node index.js --action add --name Mango --email mango@gmail.com --phone 322-22-22
+
+4. Delete the contact:  
+node index.js --action remove --id qdggE76Jtbfd9eWJHrssH
 
 ## Usage
 
@@ -24,10 +37,8 @@ This Employee Tracker Application was created as command line application for th
 want to be able to view and manage their personal or business contact information,
 so that they can organize and plan their personal/business life in a better way.
 
-The following video demonstrates the application functionality:
 
 The following screenshot demonstrates the application functionality:
-
 
 ![Contacts Book / List of Contacts](./images/1-ListContacts.png)
 ![Add New Contact](./images/2-addNewContact.png)!
