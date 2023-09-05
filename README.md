@@ -28,6 +28,7 @@ The following video demonstrates the application functionality:
 
 The following screenshot demonstrates the application functionality:
 
+
 ![Contacts Book / List of Contacts](./images/1-ListContacts.png)
 ![Add New Contact](./images/2-addNewContact.png)!
 
