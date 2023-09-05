@@ -1,0 +1,28 @@
+{
+  "name": "cli-application",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index",
+    "start:dev": "nodemon index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Volodya1989/CLI-application.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Volodya1989/CLI-application/issues"
+  },
+  "homepage": "https://github.com/Volodya1989/CLI-application#readme",
+  "dependencies": {
+    "yarn": "^1.22.19"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
