@@ -43,7 +43,7 @@ The following screenshot demonstrates the application functionality:
 ![Contacts Book / List of Contacts](./images/1-ListContacts.png)
 ![Add New Contact](./images/2-addNewContact.png)!
 
-[Delete Contact](./images/3-deleteContact.png)
+![Delete Contact](./images/3-deleteContact.png)
 
 ![Get By ID Contact](./images/4-getByIdContact.png)
 
