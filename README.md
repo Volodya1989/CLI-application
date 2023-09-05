@@ -7,7 +7,7 @@
 ## Table of Contents
 
 - [Installation](#installation)
--[Available_commands](#commands)
+- [CLI Commands](#commands)
 - [Usage](#usage)
 - [Credits](#credits)
 - [URL](#url)
