@@ -20,6 +20,10 @@
   },
   "homepage": "https://github.com/Volodya1989/CLI-application#readme",
   "dependencies": {
+    "commander": "^11.0.0",
+    "nanoid": "^3.3.4",
+    "node": "^20.5.1",
+    "yargs": "^17.7.2",
     "yarn": "^1.22.19"
   },
   "devDependencies": {
